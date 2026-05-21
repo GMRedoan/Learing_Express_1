@@ -1,0 +1,168 @@
+
+Method -> GET Time -> 8:03:40 AM URL -> /users 
+
+Method -> GET Time -> 8:04:32 AM URL -> /users 
+
+Method -> GET Time -> 8:04:42 AM URL -> /api/users 
+
+Method -> GET Time -> 8:05:39 AM URL -> /api/users 
+
+Method -> GET Time -> 8:05:55 AM URL -> /api/users/2 
+
+Method -> GET Time -> 8:12:37 AM URL -> /api/users 
+
+Method -> GET Time -> 8:18:47 AM URL -> /api/users 
+
+Method -> POST Time -> 8:23:13 AM URL -> /api/auth/login 
+
+Method -> GET Time -> 8:23:39 AM URL -> /api/users 
+
+Method -> GET Time -> 8:24:31 AM URL -> /api/users 
+
+Method -> GET Time -> 8:30:59 AM URL -> /api/users 
+
+Method -> GET Time -> 8:31:02 AM URL -> /api/users 
+
+Method -> GET Time -> 8:31:12 AM URL -> /api/users 
+
+Method -> GET Time -> 8:31:58 AM URL -> /api/users 
+
+Method -> GET Time -> 8:32:05 AM URL -> /api/users 
+
+Method -> GET Time -> 8:32:09 AM URL -> /api/users 
+
+Method -> GET Time -> 8:32:52 AM URL -> /api/users 
+
+Method -> GET Time -> 8:32:58 AM URL -> /api/users 
+
+Method -> GET Time -> 8:42:05 AM URL -> /api/users 
+
+Method -> GET Time -> 8:54:49 AM URL -> /api/users 
+
+Method -> GET Time -> 9:04:10 AM URL -> /api/users 
+
+Method -> GET Time -> 9:04:18 AM URL -> /api/users 
+
+Method -> GET Time -> 9:06:03 AM URL -> /api/users 
+
+Method -> GET Time -> 9:06:24 AM URL -> /api/users 
+
+Method -> GET Time -> 9:06:35 AM URL -> /api/users 
+
+Method -> GET Time -> 9:06:54 AM URL -> /api/users 
+
+Method -> GET Time -> 9:07:06 AM URL -> /api/users 
+
+Method -> GET Time -> 9:07:10 AM URL -> /api/users 
+
+Method -> GET Time -> 9:08:09 AM URL -> /api/users 
+
+Method -> GET Time -> 9:08:17 AM URL -> /api/users 
+
+Method -> GET Time -> 9:08:39 AM URL -> /api/users 
+
+Method -> GET Time -> 9:08:46 AM URL -> /api/users 
+
+Method -> GET Time -> 9:11:46 AM URL -> /api/users 
+
+Method -> POST Time -> 9:11:53 AM URL -> /api/auth/login 
+
+Method -> GET Time -> 9:12:08 AM URL -> /api/users 
+
+Method -> GET Time -> 1:13:07 PM URL -> /api/users 
+
+Method -> GET Time -> 1:13:09 PM URL -> /api/users 
+
+Method -> GET Time -> 1:13:14 PM URL -> /api 
+
+Method -> GET Time -> 1:13:18 PM URL -> / 
+
+Method -> GET Time -> 1:33:56 PM URL -> / 
+
+Method -> POST Time -> 1:35:08 PM URL -> /api/users 
+
+Method -> POST Time -> 1:36:29 PM URL -> /api/users 
+
+Method -> POST Time -> 1:36:57 PM URL -> /api/users 
+
+Method -> GET Time -> 7:33:24 PM URL -> /users 
+
+Method -> GET Time -> 7:33:28 PM URL -> /api/users 
+
+Method -> GET Time -> 7:33:29 PM URL -> /api/users 
+
+Method -> GET Time -> 7:33:56 PM URL -> /api/users 
+
+Method -> GET Time -> 7:34:10 PM URL -> /.well-known/appspecific/com.chrome.devtools.json 
+
+Method -> GET Time -> 7:34:20 PM URL -> /api/users 
+
+Method -> GET Time -> 7:34:20 PM URL -> /.well-known/appspecific/com.chrome.devtools.json 
+
+Method -> GET Time -> 7:34:21 PM URL -> /api/users 
+
+Method -> GET Time -> 7:34:22 PM URL -> /.well-known/appspecific/com.chrome.devtools.json 
+
+Method -> GET Time -> 7:34:23 PM URL -> /api/users 
+
+Method -> GET Time -> 7:34:23 PM URL -> /.well-known/appspecific/com.chrome.devtools.json 
+
+Method -> GET Time -> 7:34:39 PM URL -> /api/users 
+
+Method -> GET Time -> 7:34:39 PM URL -> /.well-known/appspecific/com.chrome.devtools.json 
+
+Method -> GET Time -> 7:35:02 PM URL -> /api/users 
+
+Method -> POST Time -> 8:15:43 PM URL -> /api/users 
+
+Method -> POST Time -> 8:23:40 PM URL -> /api/users 
+
+Method -> GET Time -> 9:31:46 PM URL -> /api/users 
+
+Method -> GET Time -> 9:31:50 PM URL -> /api/users 
+
+Method -> POST Time -> 9:32:47 PM URL -> /api/auth/login 
+
+Method -> GET Time -> 9:33:06 PM URL -> /api/users 
+
+Method -> POST Time -> 9:33:43 PM URL -> /api/auth/login 
+
+Method -> GET Time -> 9:34:01 PM URL -> /api/users 
+
+Method -> GET Time -> 9:42:12 PM URL -> /api/users 
+
+Method -> GET Time -> 9:43:39 PM URL -> /api/users 
+
+Method -> POST Time -> 10:16:14 PM URL -> /api/auth/login 
+
+Method -> POST Time -> 10:30:30 PM URL -> /api/auth/login 
+
+Method -> POST Time -> 10:32:26 PM URL -> /api/auth/refresh-token 
+
+Method -> POST Time -> 10:33:56 PM URL -> /api/auth/refresh-token 
+
+Method -> POST Time -> 10:34:46 PM URL -> /api/auth/login 
+
+Method -> POST Time -> 10:35:09 PM URL -> /api/auth/refresh-token 
+
+Method -> POST Time -> 11:01:22 PM URL -> /api/auth/refresh-token 
+
+Method -> POST Time -> 11:02:01 PM URL -> /api/auth/login 
+
+Method -> POST Time -> 11:03:02 PM URL -> /api/auth/refresh-token 
+
+Method -> POST Time -> 11:05:05 PM URL -> /api/auth/refresh-token 
+
+Method -> GET Time -> 11:06:57 PM URL -> /api/refresh-token 
+
+Method -> GET Time -> 11:07:47 PM URL -> /api/refresh-token 
+
+Method -> POST Time -> 11:07:52 PM URL -> /api/auth/refresh-token 
+
+Method -> POST Time -> 2:41:16 PM URL -> /api/auth/refresh-token 
+
+Method -> POST Time -> 2:42:36 PM URL -> /api/auth/refresh-token 
+
+Method -> GET Time -> 3:11:51 PM URL -> /api/users 
+
+Method -> GET Time -> 3:12:00 PM URL -> /api/users 
