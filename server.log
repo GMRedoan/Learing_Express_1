@@ -166,3 +166,9 @@ Method -> POST Time -> 2:42:36 PM URL -> /api/auth/refresh-token
 Method -> GET Time -> 3:11:51 PM URL -> /api/users 
 
 Method -> GET Time -> 3:12:00 PM URL -> /api/users 
+
+Method -> GET Time -> 10:03:27 PM URL -> /api/offers 
+
+Method -> GET Time -> 10:06:23 PM URL -> /api/offers 
+
+Method -> GET Time -> 10:07:04 PM URL -> /api/offers 
